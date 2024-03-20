@@ -1,0 +1,23 @@
+{
+  "name": "aptosquest4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aptos": "^1.21.0",
+    "axios": "^1.6.7",
+    "bluebird": "^3.7.2",
+    "inquirer": "^9.2.13",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.42",
+    "@types/inquirer": "^9.0.7"
+  }
+}

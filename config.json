@@ -1,0 +1,7 @@
+{
+    "Rpc": "https://fullnode.mainnet.aptoslabs.com",
+    "DelayTimeRange": {
+        "timeSecMin": 0,
+        "timeSecMax": 50
+    }
+}
